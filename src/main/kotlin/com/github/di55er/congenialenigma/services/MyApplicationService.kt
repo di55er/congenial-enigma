@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.di55er.congenialenigma.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.di55er.congenialenigma.MyBundle
 
 class MyApplicationService {
 
